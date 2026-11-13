@@ -26,6 +26,7 @@ cd java
 | Topic | Exercise | Code | Test |
 |---|---|---|---|
 | Strings | How many times can "BANANA" be written with the letters of S? | [`Banana`](java/src/main/java/practice/strings/Banana.java) | [`BananaTest`](java/src/test/java/practice/strings/BananaTest.java) |
+| Graphs | All roads lead to Rome: find the city every other city can reach | [`RoadsToRome`](java/src/main/java/practice/graphs/RoadsToRome.java) | [`RoadsToRomeTest`](java/src/test/java/practice/graphs/RoadsToRomeTest.java) |
 
 ## License
 
