@@ -1,0 +1,32 @@
+# Algorithms practice
+
+Algorithm and data-structure exercises, each with a test harness, solved in Java
+(and later in other languages).
+
+## Layout
+
+```
+java/      Maven project: src/main for solutions, src/test for the tests
+```
+
+Exercises are grouped by topic, in packages such as `practice.strings`.
+
+## Running the tests
+
+Java 21 or newer. The Maven wrapper downloads Maven the first time.
+
+```bash
+cd java
+./mvnw test                     # everything
+./mvnw test -Dtest=BananaTest   # one exercise
+```
+
+## Exercises
+
+| Topic | Exercise | Code | Test |
+|---|---|---|---|
+| Strings | How many times can "BANANA" be written with the letters of S? | [`Banana`](java/src/main/java/practice/strings/Banana.java) | [`BananaTest`](java/src/test/java/practice/strings/BananaTest.java) |
+
+## License
+
+[MIT](LICENSE)
