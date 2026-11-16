@@ -29,6 +29,7 @@ cd java
 | Graphs | All roads lead to Rome: find the city every other city can reach | [`RoadsToRome`](java/src/main/java/practice/graphs/RoadsToRome.java) | [`RoadsToRomeTest`](java/src/test/java/practice/graphs/RoadsToRomeTest.java) |
 | Greedy | The number below S with the largest digit sum | [`MaxDigitSum`](java/src/main/java/practice/greedy/MaxDigitSum.java) | [`MaxDigitSumTest`](java/src/test/java/practice/greedy/MaxDigitSumTest.java) |
 | Strings | DNA with unknown bases: maximise the longest G run plus the longest T run | [`DnaRuns`](java/src/main/java/practice/strings/DnaRuns.java) | [`DnaRunsTest`](java/src/test/java/practice/strings/DnaRunsTest.java) |
+| Randomness | The most horrible parent: cut a cake at a random point using only a coin | [`CakeSplit`](java/src/main/java/practice/random/CakeSplit.java) | [`CakeSplitTest`](java/src/test/java/practice/random/CakeSplitTest.java) |
 
 ## License
 
